@@ -1,0 +1,3 @@
+com\example\persister\PersonRequest.class
+com\example\persister\SavePersonHandler.class
+com\example\persister\PersonResponse.class
